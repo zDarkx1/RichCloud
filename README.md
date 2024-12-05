@@ -2,21 +2,16 @@
 
 **Download**: [https://github.com/zDarkx1/RichCloud](https://github.com/zDarkx1/RichCloud)
 
-**RichCloud** adalah program berbasis C++ yang membantu kamu memilih layanan cloud sesuai kebutuhan. Di dalamnya, kamu bisa memilih server, sistem operasi, lokasi, domain, dan metode pembayaran.
+**RichCloud** adalah program berbasis C++ yang membantu kamu memilih layanan cloud sesuai kebutuhan. Di dalamnya, kamu bisa memilih server, sistem operasi, lokasi dan domain
 
 ---
 
 ## Fitur Utama
 
 1. **Pilih Server & Lokasi**  
-   Tentukan server dan lokasi sesuai keinginan.  
 2. **Sistem Operasi**  
-   Sesuaikan dengan sistem operasi favoritmu.  
-3. **Registrasi Domain**  
-   Tambahkan nama domain sesuai kebutuhan.  
+3. **Registrasi Domain**    
 4. **Metode Pembayaran**  
-   Pilih cara pembayaran yang nyaman.  
-
 ---
 
 ## Panduan Penggunaan
@@ -38,16 +33,20 @@
 
 ## Catatan
 
-- **Keamanan Data**: Informasi dalam program ini hanyalah simulasi dan tidak valid digunakan.  
-- **Penggunaan Crypto**: Semua transaksi menggunakan crypto hanya simulasi, harap berhati-hati di dunia nyata.  
+- **Keamanan Data**: Segala informasi yang ada dalam kode ini, tidak valid digunakan.  
+- **Penggunaan Crypto**: Semua transaksi menggunakan crypto hanya simulasi belaka.  
 - **Sistem ini tidak terhubung ke gateway atau API pembayaran nyata.**
 
 ---
 
 ## Acknowledgements
 
-Proyek ini tidak akan selesai tanpa dukungan dari teman-teman, guru, dan pengalaman belajar di SMKN 1 Cimahi. Terima kasih untuk semua yang telah membantu dan memberi ide!
-
+Proyek ini tidak akan selesai tanpa dukungan dan saran dari teman teman dan guru saya, maka dari itu saya sangat berterimakasih karna telah mendukung saya dan memberi ide.
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 > "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
