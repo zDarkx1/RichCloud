@@ -1,6 +1,5 @@
 # 🚀 RICHCLOUD
 
-![RichCloud Logo](https://github.com/zDarkx1/RichCloud/blob/main/logo.png)  
 Aplikasi berbasis C++ untuk memilih layanan cloud, server, sistem operasi, lokasi, dan domain.
 
 [![Download](https://img.shields.io/badge/Download-RichCloud-blue?style=for-the-badge&logo=github)](https://github.com/zDarkx1/RichCloud/releases)
@@ -13,8 +12,6 @@ Aplikasi berbasis C++ untuk memilih layanan cloud, server, sistem operasi, lokas
 - 💻 **Sistem Operasi**
 - 🔗 **Registrasi Domain**
 - 💳 **Metode Pembayaran**
-
-![RichCloud Banner](https://github.com/zDarkx1/RichCloud/blob/main/banner.png)
 
 ---
 
@@ -31,6 +28,14 @@ Aplikasi berbasis C++ untuk memilih layanan cloud, server, sistem operasi, lokas
 - **Kelas**: SEA (Software Engineering A)  
 - **Jurusan**: Rekayasa Perangkat Lunak (RPL)  
 - **Sekolah**: SMKN 1 Cimahi  
+
+---
+
+## 🌐 Media Sosial
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Alrizky#1234)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alrizky_budiman)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zDarkx1)
 
 ---
 
