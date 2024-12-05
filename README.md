@@ -1,25 +1,27 @@
-# 🎉 RICHCLOUD 🎉
+# 🚀 RICHCLOUD
 
-**📥 Download**: [https://github.com/zDarkx1/RichCloud](https://github.com/zDarkx1/RichCloud)
+![RichCloud Logo](https://github.com/zDarkx1/RichCloud/blob/main/logo.png)  
+Aplikasi berbasis C++ untuk memilih layanan cloud, server, sistem operasi, lokasi, dan domain.
 
-**RichCloud** adalah program berbasis C++ yang membantu kamu memilih layanan cloud sesuai kebutuhan. Di dalamnya, kamu bisa memilih server, sistem operasi, lokasi, dan domain 🌐.
+[![Download](https://img.shields.io/badge/Download-RichCloud-blue?style=for-the-badge&logo=github)](https://github.com/zDarkx1/RichCloud/releases)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/zDarkx1/RichCloud/blob/main/LICENSE)
 
 ---
 
-## ✨ Fitur Utama
+## 🎯 Fitur Utama
+- 🌍 **Pilih Server & Lokasi**
+- 💻 **Sistem Operasi**
+- 🔗 **Registrasi Domain**
+- 💳 **Metode Pembayaran**
 
-1. 🌎 **Pilih Server & Lokasi**  
-2. 💻 **Sistem Operasi**  
-3. 🔗 **Registrasi Domain**    
-4. 💳 **Metode Pembayaran**  
+![RichCloud Banner](https://github.com/zDarkx1/RichCloud/blob/main/banner.png)
 
 ---
 
 ## 📋 Panduan Penggunaan
-
-1. 🛠️ Jalankan program dan ikuti petunjuk di layar.  
-2. 📊 Pilih server, sistem operasi, lokasi, dan domain sesuai preferensi.  
-3. 💵 Pilih metode pembayaran yang kamu inginkan dan ikuti instruksi berikutnya.  
+1. Jalankan program dan ikuti petunjuk di layar.  
+2. Pilih server, sistem operasi, lokasi, dan domain sesuai preferensi.  
+3. Pilih metode pembayaran yang kamu inginkan dan ikuti instruksi berikutnya.  
 
 ---
 
@@ -32,23 +34,20 @@
 
 ---
 
-## ⚠️ Catatan
-
-- 🛡️ **Keamanan Data**: Segala informasi yang ada dalam kode ini tidak valid digunakan.  
-- 🪙 **Penggunaan Crypto**: Semua transaksi menggunakan crypto hanya simulasi belaka.  
-- ❌ **Sistem ini tidak terhubung ke gateway atau API pembayaran nyata.**  
-
----
-
-## 🙏 Acknowledgements
-
-Proyek ini tidak akan selesai tanpa dukungan dan saran dari teman-teman dan guru saya. Maka dari itu, saya sangat berterima kasih karena telah mendukung dan memberi ide.  
+> **📝 Note:**  
+> - RichCloud adalah proyek simulasi.  
+> - Segala informasi dalam kode ini **tidak valid untuk transaksi nyata**.  
+> - Transaksi menggunakan cryptocurrency hanya untuk **simulasi belaka**.  
 
 ---
 
 ## 📜 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Acknowledgements
+Proyek ini tidak akan selesai tanpa dukungan dan saran dari teman-teman dan guru saya. Terima kasih telah mendukung dan memberikan ide!
 
 ---
 
