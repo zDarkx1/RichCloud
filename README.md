@@ -1,9 +1,5 @@
 # RichCloud
 
-=========================================
-             RICHCLOUD 
-=========================================
-
 RichCloud adalah sistem pembelian yang memungkinkan Anda memilih layanan cloud, sistem operasi, lokasi server, domain, dan metode pembayaran.
 
 -----------------------------------------
